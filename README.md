@@ -11,3 +11,4 @@ Java Implementation of OS(CS-SEM3) Practicals based on concepts like semaphores/
 Algorithm  
 [|/] Practical 8: FIFO Page-Replacement Algorithm   
 [|/] Practical 9: LRU Page-Replacement Algorithm  
+[|/] Bonus: Bubble Sort Algorithm
